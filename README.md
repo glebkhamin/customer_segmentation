@@ -43,6 +43,7 @@ This project uses clustering techniques to group customers into distinct segment
 
 - **KMeans**: A clustering algorithm that assigns customers to a predefined number of clusters.
 - **DBSCAN**: A density-based algorithm that identifies clusters of varying shapes and sizes.
+- **AgglomerativeClustering**
 
 The best model will be selected based on silhouette scores, and customer segments will be interpreted accordingly.
 
